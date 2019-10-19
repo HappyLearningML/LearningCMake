@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/TutorialTwo.dir/MathTools.cc.o CMakeFiles/TutorialTwo.dir/tutorial_two.cc.o  -o TutorialTwo 
