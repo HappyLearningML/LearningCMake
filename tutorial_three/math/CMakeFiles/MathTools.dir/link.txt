@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMathTools.a  CMakeFiles/MathTools.dir/MathTools.cc.o
+/usr/bin/ranlib libMathTools.a
