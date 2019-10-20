@@ -8,7 +8,7 @@ double power(double base, int exponent)
         return 1;
     }
 
-    for(i = 1; i < exponent; ++1)
+    for(i = 1; i < exponent; ++i)
     {
         result = result * base;
     }
