@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/TutorialFour.dir/TutorialFour.cc.o  -o TutorialFour math/libMathTools.a 
