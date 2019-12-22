@@ -1,8 +1,8 @@
 cmake_minimum_required(VERSION 3.5)
 project(test)
 set(CMAKE_CXX_STANDARD 11)
-set(INCLUDE_DIR /home/zhangbinggang/Test_StaticLib/MyStaticLib)
-set(LIB_DIR  ./)
+set(INCLUDE_DIR ../MyStaticLib)
+set(LIB_DIR  ../MyStaticLib)
 
 include_directories(${INCLUDE_DIR})
 link_directories(${LIB_DIR})
