@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhangbinggang/workspace/personal_github/HappyLearningML/LearningCMake/tutorial_six/TutorialSix.cc
+stdio.h
+-
+stdlib.h
+-
+config.h
+-
+math.h
+-
+MathFunctions.h
+-
+
+config.h
+
+math/MathFunctions.h
+

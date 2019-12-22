@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../MySharedLib/library.h
+
+/home/zhangbinggang/workspace/personal_github/HappyLearningML/LearningCMake/Test_SharedLib/Test/main.cpp
+iostream
+-
+library.h
+/home/zhangbinggang/workspace/personal_github/HappyLearningML/LearningCMake/Test_SharedLib/Test/library.h
+

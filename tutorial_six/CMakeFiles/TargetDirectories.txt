@@ -1,0 +1,6 @@
+/home/zhangbinggang/workspace/personal_github/HappyLearningML/LearningCMake/tutorial_six/CMakeFiles/rebuild_cache.dir
+/home/zhangbinggang/workspace/personal_github/HappyLearningML/LearningCMake/tutorial_six/CMakeFiles/Tutorial_six.dir
+/home/zhangbinggang/workspace/personal_github/HappyLearningML/LearningCMake/tutorial_six/CMakeFiles/edit_cache.dir
+/home/zhangbinggang/workspace/personal_github/HappyLearningML/LearningCMake/tutorial_six/math/CMakeFiles/rebuild_cache.dir
+/home/zhangbinggang/workspace/personal_github/HappyLearningML/LearningCMake/tutorial_six/math/CMakeFiles/MathFunctions.dir
+/home/zhangbinggang/workspace/personal_github/HappyLearningML/LearningCMake/tutorial_six/math/CMakeFiles/edit_cache.dir

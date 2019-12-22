@@ -1,0 +1,3 @@
+/home/zhangbinggang/workspace/personal_github/HappyLearningML/LearningCMake/Test_StaticLib/MyStaticLib/CMakeFiles/rebuild_cache.dir
+/home/zhangbinggang/workspace/personal_github/HappyLearningML/LearningCMake/Test_StaticLib/MyStaticLib/CMakeFiles/MyStaticLib.dir
+/home/zhangbinggang/workspace/personal_github/HappyLearningML/LearningCMake/Test_StaticLib/MyStaticLib/CMakeFiles/edit_cache.dir
